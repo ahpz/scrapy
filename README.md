@@ -8,4 +8,4 @@ python tweet.py eastbay 抓取电商网站
 
 python youtube.py eastbay 搜索youtube 网站eastbay 关键词相关视频（下载4-20分钟的视频） 由于采用关键词搜索后下载 存在一定得误差
 
-注意依赖工具:pip install twitter pip install python-twitter
+注意依赖工具:pip install twitter pip install python-twitter 使用前需要配置 conf 中dev.ini 相关的日志路径 和程序基本路径配置 
