@@ -1,0 +1,1959 @@
+[
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "Too good to get just one! Snag the new #PUMAFenty Cleated Creepers on 8/31. -&gt;https://t.co/K7ee7GtuzE https://t.co/oX6LLMSY87", 
+  "is_quote_status": false, 
+  "in_reply_to_status_id": null, 
+  "id": 903052217430802432, 
+  "favorite_count": 5, 
+  "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      39, 
+      49
+     ], 
+     "text": "PUMAFenty"
+    }
+   ], 
+   "urls": [
+    {
+     "url": "https://t.co/K7ee7GtuzE", 
+     "indices": [
+      81, 
+      104
+     ], 
+     "expanded_url": "http://spr.ly/60188Ilcr", 
+     "display_url": "spr.ly/60188Ilcr"
+    }
+   ], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/Eastbay/status/903052217430802432/photo/1", 
+     "display_url": "pic.twitter.com/oX6LLMSY87", 
+     "url": "https://t.co/oX6LLMSY87", 
+     "media_url_https": "https://pbs.twimg.com/media/DIhJNIqXYAITEIo.jpg", 
+     "id_str": "903052215300087810", 
+     "sizes": {
+      "large": {
+       "h": 576, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "small": {
+       "h": 383, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "medium": {
+       "h": 576, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      105, 
+      128
+     ], 
+     "type": "photo", 
+     "id": 903052215300087810, 
+     "media_url": "http://pbs.twimg.com/media/DIhJNIqXYAITEIo.jpg"
+    }
+   ]
+  }, 
+  "in_reply_to_screen_name": null, 
+  "in_reply_to_user_id": null, 
+  "retweet_count": 2, 
+  "id_str": "903052217430802432", 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 8817832, 
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451703411554004993/4-kMZptn.jpeg", 
+   "verified": true, 
+   "translator_type": "none", 
+   "profile_text_color": "212121", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/704684158971482112/AlmL2pXb_normal.jpg", 
+   "profile_sidebar_fill_color": "A6A4A6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/MCK88UEVKF", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.eastbay.com", 
+       "display_url": "eastbay.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 444175, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "8817832", 
+   "profile_background_color": "131516", 
+   "listed_count": 1790, 
+   "is_translation_enabled": false, 
+   "utc_offset": -18000, 
+   "statuses_count": 70720, 
+   "description": "The world's leading supplier of athletic gear gives you up-to-the-minute tweets on sales, new releases, and tools proven to give you an edge in sport and life.", 
+   "friends_count": 5529, 
+   "location": "United States", 
+   "profile_link_color": "FAB81E", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/704684158971482112/AlmL2pXb_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/8817832/1503948030", 
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451703411554004993/4-kMZptn.jpeg", 
+   "screen_name": "Eastbay", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 3246, 
+   "name": "Eastbay", 
+   "notifications": false, 
+   "url": "https://t.co/MCK88UEVKF", 
+   "created_at": "Tue Sep 11 19:54:18 +0000 2007", 
+   "contributors_enabled": false, 
+   "time_zone": "Central Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "possibly_sensitive": false, 
+  "lang": "en", 
+  "created_at": "Thu Aug 31 00:30:01 +0000 2017", 
+  "in_reply_to_status_id_str": null, 
+  "place": null, 
+  "extended_entities": {
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/Eastbay/status/903052217430802432/photo/1", 
+     "display_url": "pic.twitter.com/oX6LLMSY87", 
+     "url": "https://t.co/oX6LLMSY87", 
+     "media_url_https": "https://pbs.twimg.com/media/DIhJNIqXYAITEIo.jpg", 
+     "id_str": "903052215300087810", 
+     "sizes": {
+      "large": {
+       "h": 576, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "small": {
+       "h": 383, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "medium": {
+       "h": 576, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      105, 
+      128
+     ], 
+     "type": "photo", 
+     "id": 903052215300087810, 
+     "media_url": "http://pbs.twimg.com/media/DIhJNIqXYAITEIo.jpg"
+    }
+   ]
+  }
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "Eat. Grind. Rest. Repeat. @KingCrab15 puts #RE2PECT above all. https://t.co/D8ETISLViz", 
+  "is_quote_status": false, 
+  "in_reply_to_status_id": null, 
+  "id": 903006938849460224, 
+  "favorite_count": 107, 
+  "source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 296427730, 
+     "indices": [
+      26, 
+      37
+     ], 
+     "id_str": "296427730", 
+     "screen_name": "KingCrab15", 
+     "name": "Michael Crabtree"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      43, 
+      51
+     ], 
+     "text": "RE2PECT"
+    }
+   ], 
+   "urls": [], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/Eastbay/status/903006938849460224/video/1", 
+     "display_url": "pic.twitter.com/D8ETISLViz", 
+     "url": "https://t.co/D8ETISLViz", 
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/903003432356892673/img/60QNbhjLeo8KRUBA.jpg", 
+     "id_str": "903003432356892673", 
+     "sizes": {
+      "small": {
+       "h": 340, 
+       "resize": "fit", 
+       "w": 340
+      }, 
+      "large": {
+       "h": 720, 
+       "resize": "fit", 
+       "w": 720
+      }, 
+      "medium": {
+       "h": 600, 
+       "resize": "fit", 
+       "w": 600
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      63, 
+      86
+     ], 
+     "type": "photo", 
+     "id": 903003432356892673, 
+     "media_url": "http://pbs.twimg.com/amplify_video_thumb/903003432356892673/img/60QNbhjLeo8KRUBA.jpg"
+    }
+   ]
+  }, 
+  "in_reply_to_screen_name": null, 
+  "in_reply_to_user_id": null, 
+  "retweet_count": 48, 
+  "id_str": "903006938849460224", 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 8817832, 
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451703411554004993/4-kMZptn.jpeg", 
+   "verified": true, 
+   "translator_type": "none", 
+   "profile_text_color": "212121", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/704684158971482112/AlmL2pXb_normal.jpg", 
+   "profile_sidebar_fill_color": "A6A4A6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/MCK88UEVKF", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.eastbay.com", 
+       "display_url": "eastbay.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 444175, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "8817832", 
+   "profile_background_color": "131516", 
+   "listed_count": 1790, 
+   "is_translation_enabled": false, 
+   "utc_offset": -18000, 
+   "statuses_count": 70720, 
+   "description": "The world's leading supplier of athletic gear gives you up-to-the-minute tweets on sales, new releases, and tools proven to give you an edge in sport and life.", 
+   "friends_count": 5529, 
+   "location": "United States", 
+   "profile_link_color": "FAB81E", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/704684158971482112/AlmL2pXb_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/8817832/1503948030", 
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451703411554004993/4-kMZptn.jpeg", 
+   "screen_name": "Eastbay", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 3246, 
+   "name": "Eastbay", 
+   "notifications": false, 
+   "url": "https://t.co/MCK88UEVKF", 
+   "created_at": "Tue Sep 11 19:54:18 +0000 2007", 
+   "contributors_enabled": false, 
+   "time_zone": "Central Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "possibly_sensitive": false, 
+  "lang": "en", 
+  "created_at": "Wed Aug 30 21:30:05 +0000 2017", 
+  "in_reply_to_status_id_str": null, 
+  "place": null, 
+  "extended_entities": {
+   "media": [
+    {
+     "additional_media_info": {
+      "monetizable": false, 
+      "embeddable": true, 
+      "call_to_actions": {
+       "visit_site": {
+        "url": "http://www.eastbay.com/_-_/keyword-jordan+re2pect"
+       }
+      }, 
+      "description": "", 
+      "title": ""
+     }, 
+     "expanded_url": "https://twitter.com/Eastbay/status/903006938849460224/video/1", 
+     "display_url": "pic.twitter.com/D8ETISLViz", 
+     "url": "https://t.co/D8ETISLViz", 
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/903003432356892673/img/60QNbhjLeo8KRUBA.jpg", 
+     "video_info": {
+      "aspect_ratio": [
+       1, 
+       1
+      ], 
+      "duration_millis": 34159, 
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/903003432356892673/vid/240x240/uxbSiDSEiIgP3PjK.mp4", 
+        "bitrate": 320000, 
+        "content_type": "video/mp4"
+       }, 
+       {
+        "url": "https://video.twimg.com/amplify_video/903003432356892673/pl/JkcsET0fqtE0C4ei.m3u8", 
+        "content_type": "application/x-mpegURL"
+       }, 
+       {
+        "url": "https://video.twimg.com/amplify_video/903003432356892673/vid/480x480/RxiN3yfivwikZ3ev.mp4", 
+        "bitrate": 832000, 
+        "content_type": "video/mp4"
+       }, 
+       {
+        "url": "https://video.twimg.com/amplify_video/903003432356892673/vid/720x720/0m2sYKOQRqN2lc8M.mp4", 
+        "bitrate": 1280000, 
+        "content_type": "video/mp4"
+       }
+      ]
+     }, 
+     "id_str": "903003432356892673", 
+     "sizes": {
+      "small": {
+       "h": 340, 
+       "resize": "fit", 
+       "w": 340
+      }, 
+      "large": {
+       "h": 720, 
+       "resize": "fit", 
+       "w": 720
+      }, 
+      "medium": {
+       "h": 600, 
+       "resize": "fit", 
+       "w": 600
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      63, 
+      86
+     ], 
+     "type": "video", 
+     "id": 903003432356892673, 
+     "media_url": "http://pbs.twimg.com/amplify_video_thumb/903003432356892673/img/60QNbhjLeo8KRUBA.jpg"
+    }
+   ]
+  }
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "Pretty in pastel! \ud83d\udc97 Cop the latest colors of our hottest #Vans -&gt; https://t.co/kMYz89fMQG https://t.co/DLXbs7BHnz", 
+  "is_quote_status": false, 
+  "in_reply_to_status_id": null, 
+  "id": 902980495427981312, 
+  "favorite_count": 7, 
+  "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      57, 
+      62
+     ], 
+     "text": "Vans"
+    }
+   ], 
+   "urls": [
+    {
+     "url": "https://t.co/kMYz89fMQG", 
+     "indices": [
+      69, 
+      92
+     ], 
+     "expanded_url": "http://spr.ly/60108IUu8", 
+     "display_url": "spr.ly/60108IUu8"
+    }
+   ], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/Eastbay/status/902980495427981312/photo/1", 
+     "display_url": "pic.twitter.com/DLXbs7BHnz", 
+     "url": "https://t.co/DLXbs7BHnz", 
+     "media_url_https": "https://pbs.twimg.com/media/DIgH-VnXgAAyIKa.jpg", 
+     "id_str": "902980492823330816", 
+     "sizes": {
+      "large": {
+       "h": 576, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "small": {
+       "h": 383, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "medium": {
+       "h": 576, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      93, 
+      116
+     ], 
+     "type": "photo", 
+     "id": 902980492823330816, 
+     "media_url": "http://pbs.twimg.com/media/DIgH-VnXgAAyIKa.jpg"
+    }
+   ]
+  }, 
+  "in_reply_to_screen_name": null, 
+  "in_reply_to_user_id": null, 
+  "retweet_count": 1, 
+  "id_str": "902980495427981312", 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 8817832, 
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451703411554004993/4-kMZptn.jpeg", 
+   "verified": true, 
+   "translator_type": "none", 
+   "profile_text_color": "212121", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/704684158971482112/AlmL2pXb_normal.jpg", 
+   "profile_sidebar_fill_color": "A6A4A6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/MCK88UEVKF", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.eastbay.com", 
+       "display_url": "eastbay.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 444175, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "8817832", 
+   "profile_background_color": "131516", 
+   "listed_count": 1790, 
+   "is_translation_enabled": false, 
+   "utc_offset": -18000, 
+   "statuses_count": 70720, 
+   "description": "The world's leading supplier of athletic gear gives you up-to-the-minute tweets on sales, new releases, and tools proven to give you an edge in sport and life.", 
+   "friends_count": 5529, 
+   "location": "United States", 
+   "profile_link_color": "FAB81E", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/704684158971482112/AlmL2pXb_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/8817832/1503948030", 
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451703411554004993/4-kMZptn.jpeg", 
+   "screen_name": "Eastbay", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 3246, 
+   "name": "Eastbay", 
+   "notifications": false, 
+   "url": "https://t.co/MCK88UEVKF", 
+   "created_at": "Tue Sep 11 19:54:18 +0000 2007", 
+   "contributors_enabled": false, 
+   "time_zone": "Central Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "possibly_sensitive": false, 
+  "lang": "en", 
+  "created_at": "Wed Aug 30 19:45:01 +0000 2017", 
+  "in_reply_to_status_id_str": null, 
+  "place": null, 
+  "extended_entities": {
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/Eastbay/status/902980495427981312/photo/1", 
+     "display_url": "pic.twitter.com/DLXbs7BHnz", 
+     "url": "https://t.co/DLXbs7BHnz", 
+     "media_url_https": "https://pbs.twimg.com/media/DIgH-VnXgAAyIKa.jpg", 
+     "id_str": "902980492823330816", 
+     "sizes": {
+      "large": {
+       "h": 576, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "small": {
+       "h": 383, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "medium": {
+       "h": 576, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      93, 
+      116
+     ], 
+     "type": "photo", 
+     "id": 902980492823330816, 
+     "media_url": "http://pbs.twimg.com/media/DIgH-VnXgAAyIKa.jpg"
+    }
+   ]
+  }
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "@jeffserra2 No, however we have 4040V4 that you can, here, https://t.co/aGV1P2q4WE.", 
+  "is_quote_status": false, 
+  "in_reply_to_status_id": 902899291752103937, 
+  "id": 902965297539371010, 
+  "favorite_count": 1, 
+  "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 448159671, 
+     "indices": [
+      0, 
+      11
+     ], 
+     "id_str": "448159671", 
+     "screen_name": "jeffserra2", 
+     "name": "Jeff Serra"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/aGV1P2q4WE", 
+     "indices": [
+      59, 
+      82
+     ], 
+     "expanded_url": "http://spr.ly/60188IoS6", 
+     "display_url": "spr.ly/60188IoS6"
+    }
+   ]
+  }, 
+  "in_reply_to_screen_name": "jeffserra2", 
+  "in_reply_to_user_id": 448159671, 
+  "retweet_count": 0, 
+  "id_str": "902965297539371010", 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 8817832, 
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451703411554004993/4-kMZptn.jpeg", 
+   "verified": true, 
+   "translator_type": "none", 
+   "profile_text_color": "212121", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/704684158971482112/AlmL2pXb_normal.jpg", 
+   "profile_sidebar_fill_color": "A6A4A6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/MCK88UEVKF", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.eastbay.com", 
+       "display_url": "eastbay.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 444175, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "8817832", 
+   "profile_background_color": "131516", 
+   "listed_count": 1790, 
+   "is_translation_enabled": false, 
+   "utc_offset": -18000, 
+   "statuses_count": 70720, 
+   "description": "The world's leading supplier of athletic gear gives you up-to-the-minute tweets on sales, new releases, and tools proven to give you an edge in sport and life.", 
+   "friends_count": 5529, 
+   "location": "United States", 
+   "profile_link_color": "FAB81E", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/704684158971482112/AlmL2pXb_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/8817832/1503948030", 
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451703411554004993/4-kMZptn.jpeg", 
+   "screen_name": "Eastbay", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 3246, 
+   "name": "Eastbay", 
+   "notifications": false, 
+   "url": "https://t.co/MCK88UEVKF", 
+   "created_at": "Tue Sep 11 19:54:18 +0000 2007", 
+   "contributors_enabled": false, 
+   "time_zone": "Central Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": "448159671", 
+  "possibly_sensitive": false, 
+  "lang": "en", 
+  "created_at": "Wed Aug 30 18:44:37 +0000 2017", 
+  "in_reply_to_status_id_str": "902899291752103937", 
+  "place": null
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "Grab the gloves, shirt, shorts, and trainers that Francisco Lindor rocked on our cover. https://t.co/HB2w9Bn6pp https://t.co/6FIJs0ryag", 
+  "is_quote_status": false, 
+  "in_reply_to_status_id": null, 
+  "id": 902954091244126208, 
+  "favorite_count": 10, 
+  "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/HB2w9Bn6pp", 
+     "indices": [
+      88, 
+      111
+     ], 
+     "expanded_url": "http://spr.ly/60118IWz5", 
+     "display_url": "spr.ly/60118IWz5"
+    }
+   ], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/Eastbay/status/902954091244126208/photo/1", 
+     "display_url": "pic.twitter.com/6FIJs0ryag", 
+     "url": "https://t.co/6FIJs0ryag", 
+     "media_url_https": "https://pbs.twimg.com/media/DIfv8cFXgAAQ-CH.jpg", 
+     "id_str": "902954071920967680", 
+     "sizes": {
+      "small": {
+       "h": 680, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "large": {
+       "h": 1024, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "medium": {
+       "h": 1024, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      112, 
+      135
+     ], 
+     "type": "photo", 
+     "id": 902954071920967680, 
+     "media_url": "http://pbs.twimg.com/media/DIfv8cFXgAAQ-CH.jpg"
+    }
+   ]
+  }, 
+  "in_reply_to_screen_name": null, 
+  "in_reply_to_user_id": null, 
+  "retweet_count": 0, 
+  "id_str": "902954091244126208", 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 8817832, 
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451703411554004993/4-kMZptn.jpeg", 
+   "verified": true, 
+   "translator_type": "none", 
+   "profile_text_color": "212121", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/704684158971482112/AlmL2pXb_normal.jpg", 
+   "profile_sidebar_fill_color": "A6A4A6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/MCK88UEVKF", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.eastbay.com", 
+       "display_url": "eastbay.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 444175, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "8817832", 
+   "profile_background_color": "131516", 
+   "listed_count": 1790, 
+   "is_translation_enabled": false, 
+   "utc_offset": -18000, 
+   "statuses_count": 70720, 
+   "description": "The world's leading supplier of athletic gear gives you up-to-the-minute tweets on sales, new releases, and tools proven to give you an edge in sport and life.", 
+   "friends_count": 5529, 
+   "location": "United States", 
+   "profile_link_color": "FAB81E", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/704684158971482112/AlmL2pXb_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/8817832/1503948030", 
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451703411554004993/4-kMZptn.jpeg", 
+   "screen_name": "Eastbay", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 3246, 
+   "name": "Eastbay", 
+   "notifications": false, 
+   "url": "https://t.co/MCK88UEVKF", 
+   "created_at": "Tue Sep 11 19:54:18 +0000 2007", 
+   "contributors_enabled": false, 
+   "time_zone": "Central Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "possibly_sensitive": false, 
+  "lang": "en", 
+  "created_at": "Wed Aug 30 18:00:06 +0000 2017", 
+  "in_reply_to_status_id_str": null, 
+  "place": null, 
+  "extended_entities": {
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/Eastbay/status/902954091244126208/photo/1", 
+     "display_url": "pic.twitter.com/6FIJs0ryag", 
+     "url": "https://t.co/6FIJs0ryag", 
+     "media_url_https": "https://pbs.twimg.com/media/DIfv8cFXgAAQ-CH.jpg", 
+     "id_str": "902954071920967680", 
+     "sizes": {
+      "small": {
+       "h": 680, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "large": {
+       "h": 1024, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "medium": {
+       "h": 1024, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      112, 
+      135
+     ], 
+     "type": "photo", 
+     "id": 902954071920967680, 
+     "media_url": "http://pbs.twimg.com/media/DIfv8cFXgAAQ-CH.jpg"
+    }, 
+    {
+     "expanded_url": "https://twitter.com/Eastbay/status/902954091244126208/photo/1", 
+     "display_url": "pic.twitter.com/6FIJs0ryag", 
+     "url": "https://t.co/6FIJs0ryag", 
+     "media_url_https": "https://pbs.twimg.com/media/DIfv8wbWAAIgtsr.jpg", 
+     "id_str": "902954077381853186", 
+     "sizes": {
+      "small": {
+       "h": 680, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "large": {
+       "h": 1024, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "medium": {
+       "h": 1024, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      112, 
+      135
+     ], 
+     "type": "photo", 
+     "id": 902954077381853186, 
+     "media_url": "http://pbs.twimg.com/media/DIfv8wbWAAIgtsr.jpg"
+    }, 
+    {
+     "expanded_url": "https://twitter.com/Eastbay/status/902954091244126208/photo/1", 
+     "display_url": "pic.twitter.com/6FIJs0ryag", 
+     "url": "https://t.co/6FIJs0ryag", 
+     "media_url_https": "https://pbs.twimg.com/media/DIfv9EoWsAEAXLP.jpg", 
+     "id_str": "902954082805133313", 
+     "sizes": {
+      "small": {
+       "h": 680, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "large": {
+       "h": 1024, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "medium": {
+       "h": 1024, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      112, 
+      135
+     ], 
+     "type": "photo", 
+     "id": 902954082805133313, 
+     "media_url": "http://pbs.twimg.com/media/DIfv9EoWsAEAXLP.jpg"
+    }, 
+    {
+     "expanded_url": "https://twitter.com/Eastbay/status/902954091244126208/photo/1", 
+     "display_url": "pic.twitter.com/6FIJs0ryag", 
+     "url": "https://t.co/6FIJs0ryag", 
+     "media_url_https": "https://pbs.twimg.com/media/DIfv9XEWsAAKm1Z.jpg", 
+     "id_str": "902954087754412032", 
+     "sizes": {
+      "large": {
+       "h": 1024, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "small": {
+       "h": 680, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "medium": {
+       "h": 1024, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      112, 
+      135
+     ], 
+     "type": "photo", 
+     "id": 902954087754412032, 
+     "media_url": "http://pbs.twimg.com/media/DIfv9XEWsAAKm1Z.jpg"
+    }
+   ]
+  }
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": ".@DeAndreHopkins shares his evolution of style. Read blog -&gt; https://t.co/F95TV5Ns8d https://t.co/beSxruluN7", 
+  "is_quote_status": false, 
+  "in_reply_to_status_id": null, 
+  "id": 902954071568637952, 
+  "favorite_count": 4, 
+  "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1057255670, 
+     "indices": [
+      1, 
+      16
+     ], 
+     "id_str": "1057255670", 
+     "screen_name": "DeAndreHopkins", 
+     "name": "Deandre Hopkins"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/F95TV5Ns8d", 
+     "indices": [
+      64, 
+      87
+     ], 
+     "expanded_url": "http://spr.ly/60188IZ3K", 
+     "display_url": "spr.ly/60188IZ3K"
+    }
+   ], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/Eastbay/status/902954071568637952/photo/1", 
+     "display_url": "pic.twitter.com/beSxruluN7", 
+     "url": "https://t.co/beSxruluN7", 
+     "media_url_https": "https://pbs.twimg.com/media/DIfv8RAXUAExHuE.jpg", 
+     "id_str": "902954068947193857", 
+     "sizes": {
+      "large": {
+       "h": 512, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "small": {
+       "h": 340, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "medium": {
+       "h": 512, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      88, 
+      111
+     ], 
+     "type": "photo", 
+     "id": 902954068947193857, 
+     "media_url": "http://pbs.twimg.com/media/DIfv8RAXUAExHuE.jpg"
+    }
+   ]
+  }, 
+  "in_reply_to_screen_name": null, 
+  "in_reply_to_user_id": null, 
+  "retweet_count": 0, 
+  "id_str": "902954071568637952", 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 8817832, 
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451703411554004993/4-kMZptn.jpeg", 
+   "verified": true, 
+   "translator_type": "none", 
+   "profile_text_color": "212121", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/704684158971482112/AlmL2pXb_normal.jpg", 
+   "profile_sidebar_fill_color": "A6A4A6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/MCK88UEVKF", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.eastbay.com", 
+       "display_url": "eastbay.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 444175, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "8817832", 
+   "profile_background_color": "131516", 
+   "listed_count": 1790, 
+   "is_translation_enabled": false, 
+   "utc_offset": -18000, 
+   "statuses_count": 70720, 
+   "description": "The world's leading supplier of athletic gear gives you up-to-the-minute tweets on sales, new releases, and tools proven to give you an edge in sport and life.", 
+   "friends_count": 5529, 
+   "location": "United States", 
+   "profile_link_color": "FAB81E", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/704684158971482112/AlmL2pXb_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/8817832/1503948030", 
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451703411554004993/4-kMZptn.jpeg", 
+   "screen_name": "Eastbay", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 3246, 
+   "name": "Eastbay", 
+   "notifications": false, 
+   "url": "https://t.co/MCK88UEVKF", 
+   "created_at": "Tue Sep 11 19:54:18 +0000 2007", 
+   "contributors_enabled": false, 
+   "time_zone": "Central Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "possibly_sensitive": false, 
+  "lang": "en", 
+  "created_at": "Wed Aug 30 18:00:01 +0000 2017", 
+  "in_reply_to_status_id_str": null, 
+  "place": null, 
+  "extended_entities": {
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/Eastbay/status/902954071568637952/photo/1", 
+     "display_url": "pic.twitter.com/beSxruluN7", 
+     "url": "https://t.co/beSxruluN7", 
+     "media_url_https": "https://pbs.twimg.com/media/DIfv8RAXUAExHuE.jpg", 
+     "id_str": "902954068947193857", 
+     "sizes": {
+      "large": {
+       "h": 512, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "small": {
+       "h": 340, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "medium": {
+       "h": 512, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      88, 
+      111
+     ], 
+     "type": "photo", 
+     "id": 902954068947193857, 
+     "media_url": "http://pbs.twimg.com/media/DIfv8RAXUAExHuE.jpg"
+    }
+   ]
+  }
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "It's all about olive! Cop the hottest color of the season in new #PUMA styles -&gt; https://t.co/osgtCu4AV7", 
+  "is_quote_status": false, 
+  "in_reply_to_status_id": null, 
+  "id": 902923941483880448, 
+  "favorite_count": 6, 
+  "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      65, 
+      70
+     ], 
+     "text": "PUMA"
+    }
+   ], 
+   "urls": [], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/Eastbay/status/902923941483880448/video/1", 
+     "display_url": "pic.twitter.com/osgtCu4AV7", 
+     "url": "https://t.co/osgtCu4AV7", 
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/902923874412756993/img/T4rB7DsGrPXG76a1.jpg", 
+     "id_str": "902923874412756993", 
+     "sizes": {
+      "small": {
+       "h": 340, 
+       "resize": "fit", 
+       "w": 340
+      }, 
+      "large": {
+       "h": 720, 
+       "resize": "fit", 
+       "w": 720
+      }, 
+      "medium": {
+       "h": 600, 
+       "resize": "fit", 
+       "w": 600
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      84, 
+      107
+     ], 
+     "type": "photo", 
+     "id": 902923874412756993, 
+     "media_url": "http://pbs.twimg.com/amplify_video_thumb/902923874412756993/img/T4rB7DsGrPXG76a1.jpg"
+    }
+   ]
+  }, 
+  "in_reply_to_screen_name": null, 
+  "in_reply_to_user_id": null, 
+  "retweet_count": 1, 
+  "id_str": "902923941483880448", 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 8817832, 
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451703411554004993/4-kMZptn.jpeg", 
+   "verified": true, 
+   "translator_type": "none", 
+   "profile_text_color": "212121", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/704684158971482112/AlmL2pXb_normal.jpg", 
+   "profile_sidebar_fill_color": "A6A4A6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/MCK88UEVKF", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.eastbay.com", 
+       "display_url": "eastbay.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 444175, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "8817832", 
+   "profile_background_color": "131516", 
+   "listed_count": 1790, 
+   "is_translation_enabled": false, 
+   "utc_offset": -18000, 
+   "statuses_count": 70720, 
+   "description": "The world's leading supplier of athletic gear gives you up-to-the-minute tweets on sales, new releases, and tools proven to give you an edge in sport and life.", 
+   "friends_count": 5529, 
+   "location": "United States", 
+   "profile_link_color": "FAB81E", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/704684158971482112/AlmL2pXb_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/8817832/1503948030", 
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451703411554004993/4-kMZptn.jpeg", 
+   "screen_name": "Eastbay", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 3246, 
+   "name": "Eastbay", 
+   "notifications": false, 
+   "url": "https://t.co/MCK88UEVKF", 
+   "created_at": "Tue Sep 11 19:54:18 +0000 2007", 
+   "contributors_enabled": false, 
+   "time_zone": "Central Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "possibly_sensitive": false, 
+  "lang": "en", 
+  "created_at": "Wed Aug 30 16:00:17 +0000 2017", 
+  "in_reply_to_status_id_str": null, 
+  "place": null, 
+  "extended_entities": {
+   "media": [
+    {
+     "additional_media_info": {
+      "monetizable": false
+     }, 
+     "expanded_url": "https://twitter.com/Eastbay/status/902923941483880448/video/1", 
+     "display_url": "pic.twitter.com/osgtCu4AV7", 
+     "url": "https://t.co/osgtCu4AV7", 
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/902923874412756993/img/T4rB7DsGrPXG76a1.jpg", 
+     "video_info": {
+      "aspect_ratio": [
+       1, 
+       1
+      ], 
+      "duration_millis": 6000, 
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/902923874412756993/vid/720x720/gX5bXQaKYY_D-1xk.mp4", 
+        "bitrate": 1280000, 
+        "content_type": "video/mp4"
+       }, 
+       {
+        "url": "https://video.twimg.com/amplify_video/902923874412756993/vid/480x480/yRfClG4gisd6SAVx.mp4", 
+        "bitrate": 832000, 
+        "content_type": "video/mp4"
+       }, 
+       {
+        "url": "https://video.twimg.com/amplify_video/902923874412756993/pl/AmgTSOC43Z7f1urI.m3u8", 
+        "content_type": "application/x-mpegURL"
+       }, 
+       {
+        "url": "https://video.twimg.com/amplify_video/902923874412756993/vid/240x240/IaiuX3S38RJwKr5M.mp4", 
+        "bitrate": 320000, 
+        "content_type": "video/mp4"
+       }
+      ]
+     }, 
+     "id_str": "902923874412756993", 
+     "sizes": {
+      "small": {
+       "h": 340, 
+       "resize": "fit", 
+       "w": 340
+      }, 
+      "large": {
+       "h": 720, 
+       "resize": "fit", 
+       "w": 720
+      }, 
+      "medium": {
+       "h": 600, 
+       "resize": "fit", 
+       "w": 600
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      84, 
+      107
+     ], 
+     "type": "video", 
+     "id": 902923874412756993, 
+     "media_url": "http://pbs.twimg.com/amplify_video_thumb/902923874412756993/img/T4rB7DsGrPXG76a1.jpg"
+    }
+   ]
+  }
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "Hail to the Victors. \u303d\ufe0fThe #Jordan Trainer Flyknit 2 is available now. \ud83d\udc49https://t.co/ygSICA9GFE\n\n#GoBlue | #GoMaize https://t.co/CQsPlSQHK5", 
+  "is_quote_status": false, 
+  "in_reply_to_status_id": null, 
+  "id": 902893677311385600, 
+  "favorite_count": 26, 
+  "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      27, 
+      34
+     ], 
+     "text": "Jordan"
+    }, 
+    {
+     "indices": [
+      97, 
+      104
+     ], 
+     "text": "GoBlue"
+    }, 
+    {
+     "indices": [
+      107, 
+      115
+     ], 
+     "text": "GoMaize"
+    }
+   ], 
+   "urls": [
+    {
+     "url": "https://t.co/ygSICA9GFE", 
+     "indices": [
+      72, 
+      95
+     ], 
+     "expanded_url": "http://spr.ly/60188IYe0", 
+     "display_url": "spr.ly/60188IYe0"
+    }
+   ], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/Eastbay/status/902893677311385600/photo/1", 
+     "display_url": "pic.twitter.com/CQsPlSQHK5", 
+     "url": "https://t.co/CQsPlSQHK5", 
+     "media_url_https": "https://pbs.twimg.com/media/DIe5A4aVoAEealG.jpg", 
+     "id_str": "902893675105067009", 
+     "sizes": {
+      "large": {
+       "h": 576, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "small": {
+       "h": 383, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "medium": {
+       "h": 576, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      116, 
+      139
+     ], 
+     "type": "photo", 
+     "id": 902893675105067009, 
+     "media_url": "http://pbs.twimg.com/media/DIe5A4aVoAEealG.jpg"
+    }
+   ]
+  }, 
+  "in_reply_to_screen_name": null, 
+  "in_reply_to_user_id": null, 
+  "retweet_count": 6, 
+  "id_str": "902893677311385600", 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 8817832, 
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451703411554004993/4-kMZptn.jpeg", 
+   "verified": true, 
+   "translator_type": "none", 
+   "profile_text_color": "212121", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/704684158971482112/AlmL2pXb_normal.jpg", 
+   "profile_sidebar_fill_color": "A6A4A6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/MCK88UEVKF", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.eastbay.com", 
+       "display_url": "eastbay.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 444175, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "8817832", 
+   "profile_background_color": "131516", 
+   "listed_count": 1790, 
+   "is_translation_enabled": false, 
+   "utc_offset": -18000, 
+   "statuses_count": 70720, 
+   "description": "The world's leading supplier of athletic gear gives you up-to-the-minute tweets on sales, new releases, and tools proven to give you an edge in sport and life.", 
+   "friends_count": 5529, 
+   "location": "United States", 
+   "profile_link_color": "FAB81E", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/704684158971482112/AlmL2pXb_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/8817832/1503948030", 
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451703411554004993/4-kMZptn.jpeg", 
+   "screen_name": "Eastbay", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 3246, 
+   "name": "Eastbay", 
+   "notifications": false, 
+   "url": "https://t.co/MCK88UEVKF", 
+   "created_at": "Tue Sep 11 19:54:18 +0000 2007", 
+   "contributors_enabled": false, 
+   "time_zone": "Central Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "possibly_sensitive": false, 
+  "lang": "en", 
+  "created_at": "Wed Aug 30 14:00:02 +0000 2017", 
+  "in_reply_to_status_id_str": null, 
+  "place": null, 
+  "extended_entities": {
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/Eastbay/status/902893677311385600/photo/1", 
+     "display_url": "pic.twitter.com/CQsPlSQHK5", 
+     "url": "https://t.co/CQsPlSQHK5", 
+     "media_url_https": "https://pbs.twimg.com/media/DIe5A4aVoAEealG.jpg", 
+     "id_str": "902893675105067009", 
+     "sizes": {
+      "large": {
+       "h": 576, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "small": {
+       "h": 383, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "medium": {
+       "h": 576, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      116, 
+      139
+     ], 
+     "type": "photo", 
+     "id": 902893675105067009, 
+     "media_url": "http://pbs.twimg.com/media/DIe5A4aVoAEealG.jpg"
+    }
+   ]
+  }
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "Trust us, you don't want to miss this \u2014 two new Ultra Boosts release 8/30. \ud83d\udc49https://t.co/LNs1CxA1KG https://t.co/iHGBS9IcCw", 
+  "is_quote_status": false, 
+  "in_reply_to_status_id": null, 
+  "id": 902686057824706564, 
+  "favorite_count": 37, 
+  "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/LNs1CxA1KG", 
+     "indices": [
+      76, 
+      99
+     ], 
+     "expanded_url": "http://spr.ly/60198IgJz", 
+     "display_url": "spr.ly/60198IgJz"
+    }
+   ], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/Eastbay/status/902686057824706564/photo/1", 
+     "display_url": "pic.twitter.com/iHGBS9IcCw", 
+     "url": "https://t.co/iHGBS9IcCw", 
+     "media_url_https": "https://pbs.twimg.com/media/DIb8LyZXUAA33V9.jpg", 
+     "id_str": "902686054771281920", 
+     "sizes": {
+      "small": {
+       "h": 383, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "large": {
+       "h": 576, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "medium": {
+       "h": 576, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      100, 
+      123
+     ], 
+     "type": "photo", 
+     "id": 902686054771281920, 
+     "media_url": "http://pbs.twimg.com/media/DIb8LyZXUAA33V9.jpg"
+    }
+   ]
+  }, 
+  "in_reply_to_screen_name": null, 
+  "in_reply_to_user_id": null, 
+  "retweet_count": 5, 
+  "id_str": "902686057824706564", 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 8817832, 
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451703411554004993/4-kMZptn.jpeg", 
+   "verified": true, 
+   "translator_type": "none", 
+   "profile_text_color": "212121", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/704684158971482112/AlmL2pXb_normal.jpg", 
+   "profile_sidebar_fill_color": "A6A4A6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/MCK88UEVKF", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.eastbay.com", 
+       "display_url": "eastbay.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 444175, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "8817832", 
+   "profile_background_color": "131516", 
+   "listed_count": 1790, 
+   "is_translation_enabled": false, 
+   "utc_offset": -18000, 
+   "statuses_count": 70720, 
+   "description": "The world's leading supplier of athletic gear gives you up-to-the-minute tweets on sales, new releases, and tools proven to give you an edge in sport and life.", 
+   "friends_count": 5529, 
+   "location": "United States", 
+   "profile_link_color": "FAB81E", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/704684158971482112/AlmL2pXb_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/8817832/1503948030", 
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451703411554004993/4-kMZptn.jpeg", 
+   "screen_name": "Eastbay", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 3246, 
+   "name": "Eastbay", 
+   "notifications": false, 
+   "url": "https://t.co/MCK88UEVKF", 
+   "created_at": "Tue Sep 11 19:54:18 +0000 2007", 
+   "contributors_enabled": false, 
+   "time_zone": "Central Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "possibly_sensitive": false, 
+  "lang": "en", 
+  "created_at": "Wed Aug 30 00:15:01 +0000 2017", 
+  "in_reply_to_status_id_str": null, 
+  "place": null, 
+  "extended_entities": {
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/Eastbay/status/902686057824706564/photo/1", 
+     "display_url": "pic.twitter.com/iHGBS9IcCw", 
+     "url": "https://t.co/iHGBS9IcCw", 
+     "media_url_https": "https://pbs.twimg.com/media/DIb8LyZXUAA33V9.jpg", 
+     "id_str": "902686054771281920", 
+     "sizes": {
+      "small": {
+       "h": 383, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "large": {
+       "h": 576, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "medium": {
+       "h": 576, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      100, 
+      123
+     ], 
+     "type": "photo", 
+     "id": 902686054771281920, 
+     "media_url": "http://pbs.twimg.com/media/DIb8LyZXUAA33V9.jpg"
+    }
+   ]
+  }
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "\ud83d\udd25 Trend alert! Cop the hottest print of the season from our top brands -&gt;https://t.co/C2QeeeJ2at https://t.co/SOTmfIutme", 
+  "is_quote_status": false, 
+  "in_reply_to_status_id": null, 
+  "id": 902663435569201153, 
+  "favorite_count": 9, 
+  "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/C2QeeeJ2at", 
+     "indices": [
+      76, 
+      99
+     ], 
+     "expanded_url": "http://spr.ly/60178I5IL", 
+     "display_url": "spr.ly/60178I5IL"
+    }
+   ], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/Eastbay/status/902663435569201153/photo/1", 
+     "display_url": "pic.twitter.com/SOTmfIutme", 
+     "url": "https://t.co/SOTmfIutme", 
+     "media_url_https": "https://pbs.twimg.com/media/DIbnm_dWsAIblqE.jpg", 
+     "id_str": "902663432389963778", 
+     "sizes": {
+      "small": {
+       "h": 340, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "large": {
+       "h": 512, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "medium": {
+       "h": 512, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      100, 
+      123
+     ], 
+     "type": "photo", 
+     "id": 902663432389963778, 
+     "media_url": "http://pbs.twimg.com/media/DIbnm_dWsAIblqE.jpg"
+    }
+   ]
+  }, 
+  "in_reply_to_screen_name": null, 
+  "in_reply_to_user_id": null, 
+  "retweet_count": 1, 
+  "id_str": "902663435569201153", 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 8817832, 
+   "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451703411554004993/4-kMZptn.jpeg", 
+   "verified": true, 
+   "translator_type": "none", 
+   "profile_text_color": "212121", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/704684158971482112/AlmL2pXb_normal.jpg", 
+   "profile_sidebar_fill_color": "A6A4A6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/MCK88UEVKF", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.eastbay.com", 
+       "display_url": "eastbay.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 444175, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "8817832", 
+   "profile_background_color": "131516", 
+   "listed_count": 1790, 
+   "is_translation_enabled": false, 
+   "utc_offset": -18000, 
+   "statuses_count": 70720, 
+   "description": "The world's leading supplier of athletic gear gives you up-to-the-minute tweets on sales, new releases, and tools proven to give you an edge in sport and life.", 
+   "friends_count": 5529, 
+   "location": "United States", 
+   "profile_link_color": "FAB81E", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/704684158971482112/AlmL2pXb_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/8817832/1503948030", 
+   "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451703411554004993/4-kMZptn.jpeg", 
+   "screen_name": "Eastbay", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 3246, 
+   "name": "Eastbay", 
+   "notifications": false, 
+   "url": "https://t.co/MCK88UEVKF", 
+   "created_at": "Tue Sep 11 19:54:18 +0000 2007", 
+   "contributors_enabled": false, 
+   "time_zone": "Central Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "possibly_sensitive": false, 
+  "lang": "en", 
+  "created_at": "Tue Aug 29 22:45:08 +0000 2017", 
+  "in_reply_to_status_id_str": null, 
+  "place": null, 
+  "extended_entities": {
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/Eastbay/status/902663435569201153/photo/1", 
+     "display_url": "pic.twitter.com/SOTmfIutme", 
+     "url": "https://t.co/SOTmfIutme", 
+     "media_url_https": "https://pbs.twimg.com/media/DIbnm_dWsAIblqE.jpg", 
+     "id_str": "902663432389963778", 
+     "sizes": {
+      "small": {
+       "h": 340, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "large": {
+       "h": 512, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "medium": {
+       "h": 512, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      100, 
+      123
+     ], 
+     "type": "photo", 
+     "id": 902663432389963778, 
+     "media_url": "http://pbs.twimg.com/media/DIbnm_dWsAIblqE.jpg"
+    }
+   ]
+  }
+ }
+]
