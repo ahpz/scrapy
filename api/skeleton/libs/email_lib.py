@@ -276,13 +276,13 @@ if __name__ == "__main__":
     try:
         
         
-        mailto_list = ['940251401@qq.com','pengzhi@baidu.com'] 
+        mailto_list = ['xx','xxx'] 
         
-        mail = CEmail('smtp.163.com', 'hzkuajing@163.com', 'hzkuajing123456')
+        mail = CEmail('smtp.163.com', 'xxxxg@163.com', 'xxxx')
         mail.subject = '测试邮件'
  
         mail.body = 'Test<p>a</p>';
-        mail.add_address('940251401@qq.com')
+        mail.add_address('xxx')
         mail.add_cc('pengzhi@baidu.com')
         mail.subtype = 'plain';#Test<p>a</ap> 若为html Test 换行 a
         mail.add_attachement("log_lib.py")
