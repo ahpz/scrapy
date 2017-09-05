@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 #ftp 文件上传模块
 
-__author__ = 'pengzhi'  
-__mail__ = 'pengzhi@baidu.com'  
+__author__ = 'pxxxxx'  
+__mail__ = 'xxxxx'  
 __date__ = '2016-08-09'  
 __version = 1.0  
   
@@ -243,21 +243,6 @@ class CFtp(object):
         self.clear_env()
 if __name__ == '__main__':  
     try:
-        src_dir = r"./"  
-        src_file = r'ftp_lib.py'  
-        xfer = CFtp()  
-        xfer.set_ftp_params(u'st01-pay-bi03.st01', 'pay', 'walletbirdsys') 
-        dest = u'/home/pay/external_datashare/KUAJING/'
-        #xfer.upload(src_dir, dest)      
-        #xfer.upload(src_file, dest)  #远程目录 本地文件
-        
-        #dest = dest + u'ftp_lib.py'
-        src = u'./tmp'
-        #xfer.download(dest, src)#远程文件 本地文件
-        #xfer.download(dest,src)
-        #xfer.init_env()
-        #print xfer._is_ftp_dir(dest)
-        
-        #xfer.delete(dest) 测试通过
+      
     except Exception as ex:
         print ex
