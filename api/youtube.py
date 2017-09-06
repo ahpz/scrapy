@@ -20,7 +20,7 @@ from skeleton.libs.youtube_lib import YoutubeAPI
 from skeleton.libs.threadpool_lib import CThreadPool
 
 #谷歌开发者 账号密钥 注意有效期...待定
-CONSUMER_KEY = 'AIzaSyBBa-lBNh837GFaU9A31V4eAaBgxKXEzcc'
+CONSUMER_KEY = 'xxxxxxxxxx'
 
 
 def enum(**enums):
