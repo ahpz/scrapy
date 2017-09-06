@@ -1,5 +1,4 @@
 
-从 instagram youtube twitter 网站抓取电商网站信息(Foot Locker、Alpha Industries, Inc.、Eastbay、New Moosejaw LLC、pixiemarket.com)数据 , 注意：需要一个能够访问国外对应网站的机器，如果是走代理。则需要研究源码修改代理设置
 
 示例:
 抓取 https://twitter.com/Eastbay 视频图片信息
@@ -10,8 +9,6 @@ python instagram.py eastbay
 
 抓取 youtube 网站eastbay关键词视频信息(4-40min)
 python youtube.py eastbay
-
-
 
 
 python 依赖:
