@@ -18,10 +18,10 @@ from skeleton.bootstrap import Env
 from skeleton.libs.threadpool_lib import CThreadPool
 
 """账号密钥 twitter申请开发者账号即可"""
-CONSUMER_KEY       = 'OsfDgov9B7etVSweBkVZMrNqQ'
-CONSUMER_SECRET    = '1EB5ksjGw4QccbeSNDzV7Vo0RRkk5oqmVB8cs8hYDvDq8CFB0t'
-OAUTH_TOKEN        = '1467699667-quhpGSj378Vc87jZO5ePG4hAIrke1JtnKtXb9ms'
-OAUTH_TOKEN_SECRET = 'vCqwMyMBkyVXym9FBha3GPhreGh22e7vyuR1SAfoN9NCo'
+CONSUMER_KEY       = 'xxxxx'
+CONSUMER_SECRET    = 'xxxxx'
+OAUTH_TOKEN        = 'xxxxxx'
+OAUTH_TOKEN_SECRET = 'xxxxxx'
 """下载视频或者图片"""
 def download(url, file_path):
     with open(file_path, 'wb') as file:
